@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 22
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 7
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 0
     },
     {
       "id": 5,
@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "furby",
+      "image": "https://www.nappaawards.com/wp-content/uploads/2018/02/FURBY-CONNECT-by-Hasbro-Inc..png",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "weasel ball",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51tmAg%2B40rL._SX466_.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "pink ranger",
+      "image": "https://media.entertainmentearth.com/assets/images/202c0d228e424b55adb67595246fc306lg.jpg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "rainbow slinky",
+      "image": "https://cdn.shopify.com/s/files/1/0049/3732/products/13_1024x.jpg?v=1334937067",
+      "likes": 0,
+      "id": 12
     }
   ]
 }
